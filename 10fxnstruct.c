@@ -1,3 +1,6 @@
+/*
+Passing array as argument of function
+*/
 #include <stdio.h>
 
 struct point

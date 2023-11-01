@@ -51,4 +51,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 makefiles/
-**.DS_STORE
+**/.DS_STORE
